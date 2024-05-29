@@ -1,4 +1,4 @@
-name: "workflow_1 for trigger build"
+name: "workflow_1 for trigger build in workflow_2"
 on:
   push:
     branches: [ "dev/3.0.0" ]
